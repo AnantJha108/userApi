@@ -1,4 +1,4 @@
-RUN THE COMMAND IN YOUR COMMAND PROMPT TO SETUP THE DJANGO
+RUN THE COMMAND IN YOUR COMMAND PROMPT TO SETUP THE DJANGO <br>
 STEP 1 : - python -m pip install -U pip
 STEP 2 :- python -m venv env_site
 STEP 3 :- env_site\Scripts\activate.bat
